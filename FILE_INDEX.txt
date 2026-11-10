@@ -1,0 +1,24 @@
+Codomax Module 01 — File Index
+
+Day-01-AI-ML-DL/learning_notes.md
+Day-02-Python-Basics/01_variables.py
+Day-02-Python-Basics/02_data_types.py
+Day-02-Python-Basics/03_operators.py
+Day-02-Python-Basics/04_input_output.py
+Day-02-Python-Basics/05_type_conversion.py
+Day-03-Python-Programming/01_conditions.py
+Day-03-Python-Programming/02_even_odd.py
+Day-03-Python-Programming/03_for_loop.py
+Day-03-Python-Programming/04_while_loop.py
+Day-03-Python-Programming/05_lists.py
+Day-03-Python-Programming/06_functions.py
+Day-04-Python-Practice/01_calculator.py
+Day-04-Python-Practice/02_grade_calculator.py
+Day-04-Python-Practice/03_factorial.py
+Day-04-Python-Practice/04_student_details.py
+Day-04-Python-Practice/05_multiplication_table.py
+Day-04-Python-Practice/06_number_guessing.py
+Learning-Notes/Module-01-Complete-Notes.md
+README.md
+Submission/DELIVERABLES_CHECKLIST.md
+Submission/GITHUB_UPLOAD_GUIDE.md
